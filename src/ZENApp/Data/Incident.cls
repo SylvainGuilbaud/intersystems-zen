@@ -88,7 +88,7 @@ Storage Default
 <Property name="Customer"/>
 <Property name="Priority"/>
 <StreamLocation>^ZENApp.Data.IncidentS</StreamLocation>
-<Type>%Library.CacheStorage</Type>
+<Type>%Storage.Persistent</Type>
 }
 
 }

@@ -111,7 +111,7 @@ Storage Default
 <Property name="SSN"/>
 <Property name="Sex"/>
 <StreamLocation>^ZENDemo.Data.PatientS</StreamLocation>
-<Type>%Library.CacheStorage</Type>
+<Type>%Storage.Persistent</Type>
 }
 
 }

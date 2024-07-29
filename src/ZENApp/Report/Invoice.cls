@@ -69,7 +69,7 @@ Storage Default
 <Property name="SaleDate"/>
 <Property name="SalesRep"/>
 <StreamLocation>^ZENApp.Report.InvoiceS</StreamLocation>
-<Type>%Library.CacheStorage</Type>
+<Type>%Storage.Persistent</Type>
 }
 
 }

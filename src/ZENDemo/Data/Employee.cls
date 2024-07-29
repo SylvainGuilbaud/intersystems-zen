@@ -133,7 +133,7 @@ Storage Default
 <Property name="Salary"/>
 <Property name="Title"/>
 <StreamLocation>^ZENDemo.Data.EmployeeS</StreamLocation>
-<Type>%Library.CacheStorage</Type>
+<Type>%Storage.Persistent</Type>
 }
 
 }

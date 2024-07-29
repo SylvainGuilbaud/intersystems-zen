@@ -17,7 +17,6 @@ Parameter DOMAIN = "ZENTEST";
 
 XData Style
 {
-
 <style type="text/css">
 
 
@@ -63,7 +62,6 @@ body {
 /// Contents of this page:
 XData Contents [ XMLNamespace = "http://www.intersystems.com/zen" ]
 {
-
 <page xmlns="http://www.intersystems.com/zen" xmlns:demo="http://www.intersystems.com/zendemo" 
 
 dragAndDrop="true"

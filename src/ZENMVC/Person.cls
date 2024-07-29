@@ -49,7 +49,7 @@ Storage Default
 <IdLocation>^ZENMVC.PersonD</IdLocation>
 <IndexLocation>^ZENMVC.PersonI</IndexLocation>
 <StreamLocation>^ZENMVC.PersonS</StreamLocation>
-<Type>%Library.CacheStorage</Type>
+<Type>%Storage.Persistent</Type>
 }
 
 }

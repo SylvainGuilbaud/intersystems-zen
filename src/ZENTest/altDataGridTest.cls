@@ -19,7 +19,6 @@ Parameter DOMAIN = "ZENTEST";
 /// This Style block contains page-specific CSS style definitions.
 XData Style
 {
-
 <style type="text/css">
 
 #dataGrid {
@@ -37,7 +36,6 @@ XData Style
 /// This XML block defines the contents of this page.
 XData Contents [ XMLNamespace = "http://www.intersystems.com/zen" ]
 {
-
 <page xmlns="http://www.intersystems.com/zen" xmlns:demo="http://www.intersystems.com/zendemo" title="">
 
 <demo:demoTitle id="title" title="Zen DataGrid Test Page Using The Alternate JSON SQL Provider widget" category="Zen Test Suite" />

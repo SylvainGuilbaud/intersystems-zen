@@ -33,7 +33,7 @@ Storage Default
 <Property name="Name"/>
 <Property name="SSN"/>
 <StreamLocation>^ZENApp.Data.EmployeeS</StreamLocation>
-<Type>%Library.CacheStorage</Type>
+<Type>%Storage.Persistent</Type>
 }
 
 }

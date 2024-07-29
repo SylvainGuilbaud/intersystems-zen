@@ -38,7 +38,7 @@ Storage Default
 <IdLocation>^ZENApp.Data.PriorityD</IdLocation>
 <IndexLocation>^ZENApp.Data.PriorityI</IndexLocation>
 <StreamLocation>^ZENApp.Data.PriorityS</StreamLocation>
-<Type>%Library.CacheStorage</Type>
+<Type>%Storage.Persistent</Type>
 }
 
 }

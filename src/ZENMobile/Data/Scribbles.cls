@@ -27,7 +27,7 @@ Storage Default
 <IdLocation>^ZENMobile.Data.ScribblesD</IdLocation>
 <IndexLocation>^ZENMobile.Data.ScribblesI</IndexLocation>
 <StreamLocation>^ZENMobile.Data.ScribblesS</StreamLocation>
-<Type>%Library.CacheStorage</Type>
+<Type>%Storage.Persistent</Type>
 }
 
 }

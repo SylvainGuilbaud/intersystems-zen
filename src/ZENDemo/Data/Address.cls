@@ -28,7 +28,7 @@ Storage Default
 </Data>
 <State>AddressState</State>
 <StreamLocation>^ZENDemo.Data.AddressS</StreamLocation>
-<Type>%Library.CacheSerialState</Type>
+<Type>%Storage.Serial</Type>
 }
 
 }

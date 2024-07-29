@@ -55,7 +55,7 @@ Storage Default
 <IdLocation>^ZENTest.ScheduleDataD</IdLocation>
 <IndexLocation>^ZENTest.ScheduleDataI</IndexLocation>
 <StreamLocation>^ZENTest.ScheduleDataS</StreamLocation>
-<Type>%Library.CacheStorage</Type>
+<Type>%Storage.Persistent</Type>
 }
 
 }

@@ -33,7 +33,7 @@ Storage Default
 <Property name="Location"/>
 <Property name="Name"/>
 <StreamLocation>^ZENApp.Data.CustomerS</StreamLocation>
-<Type>%Library.CacheStorage</Type>
+<Type>%Storage.Persistent</Type>
 }
 
 }

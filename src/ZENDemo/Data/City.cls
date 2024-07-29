@@ -29,7 +29,7 @@ Storage Default
 <Property name="Name"/>
 <Property name="ZIP"/>
 <StreamLocation>^ZENDemo.Data.CityS</StreamLocation>
-<Type>%Library.CacheStorage</Type>
+<Type>%Storage.Persistent</Type>
 }
 
 }
