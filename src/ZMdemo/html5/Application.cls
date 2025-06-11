@@ -1,5 +1,5 @@
 /// Application class for the <b>Mojo HTML5 Plugin Demo</b> 
-Class ZMdemo.html5.Application Extends %ZEN.Mojo.baseApplication
+Class ZMdemo.html5.Application Extends ZEN.Mojo.baseApplication
 {
 
 /// This is the name of this application.

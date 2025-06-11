@@ -1,4 +1,4 @@
-Class ZMdemo.bootstrap.baseTemplate Extends %ZEN.Mojo.Component.contentTemplate
+Class ZMdemo.bootstrap.baseTemplate Extends ZEN.Mojo.Component.contentTemplate
 {
 
 Parameter NAMESPACE = "http://www.intersystems.com/zen/mojo/demo/bootstrap";

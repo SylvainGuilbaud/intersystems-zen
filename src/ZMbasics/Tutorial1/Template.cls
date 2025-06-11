@@ -10,7 +10,7 @@
 /// </li>
 /// </ul>
 /// <p>Next tutorial in the series: <class>ZMbasics.Tutorial2.HomePage</class>.
-Class ZMbasics.Tutorial1.Template Extends %ZEN.Mojo.Component.contentTemplate
+Class ZMbasics.Tutorial1.Template Extends ZEN.Mojo.Component.contentTemplate
 {
 
 /// Each template class must have a unique combination of short class name and NAMESPACE parameter.

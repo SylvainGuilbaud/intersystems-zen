@@ -1,5 +1,5 @@
 /// Created using the page template: Default
-Class ZMdemo.chui.HomePage Extends %ZEN.Mojo.basePage
+Class ZMdemo.chui.HomePage Extends ZEN.Mojo.basePage
 {
 
 /// Class name of application this page belongs to.

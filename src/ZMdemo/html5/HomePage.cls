@@ -1,7 +1,7 @@
 /// This is the home page of the <b>Mojo HTML5 Plugin Demo</b>.
-/// <p>The <class>%ZEN.Mojo.Plugin.HTML5Helper</class> is a helper plugin, which is always used in conjunction with a page manager plugin.</p>
+/// <p>The <class>ZEN.Mojo.Plugin.HTML5Helper</class> is a helper plugin, which is always used in conjunction with a page manager plugin.</p>
 /// <p>In this demo a Dojo-based Mojo application is enriched with HTML5 elements.</p>
-Class ZMdemo.html5.HomePage Extends %ZEN.Mojo.basePage
+Class ZMdemo.html5.HomePage Extends ZEN.Mojo.basePage
 {
 
 /// Class name of application this page belongs to.

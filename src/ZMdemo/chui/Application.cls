@@ -1,5 +1,5 @@
 /// chocolate chip ui application
-Class ZMdemo.chui.Application Extends %ZEN.Mojo.baseApplication
+Class ZMdemo.chui.Application Extends ZEN.Mojo.baseApplication
 {
 
 /// This is the name of this application.

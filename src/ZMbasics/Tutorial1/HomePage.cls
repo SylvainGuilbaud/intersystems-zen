@@ -17,7 +17,7 @@
 /// use to see the JSON data and layout strings available to the component.
 /// <p>This ZM page class uses the template class <class>ZMbasics.Tutorial1.Template</class>.
 /// <p>Next tutorial in the series: <class>ZMbasics.Tutorial2.HomePage</class>.
-Class ZMbasics.Tutorial1.HomePage Extends %ZEN.Mojo.basePage
+Class ZMbasics.Tutorial1.HomePage Extends ZEN.Mojo.basePage
 {
 
 /// Name of the default template class that this page uses.

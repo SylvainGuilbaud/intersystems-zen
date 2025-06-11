@@ -1,7 +1,2 @@
 sqlalchemy-iris
 iris-pex-embedded-python
-django-iris
-llama-iris
-dbt-iris
-irissqlcli
-venv-iris

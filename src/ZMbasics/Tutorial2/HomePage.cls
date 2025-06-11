@@ -3,7 +3,7 @@
 /// the server-side method <method>%OnGetJSONContent</method>.
 /// <p>This ZM page class uses the template class <class>ZMbasics.Tutorial2.Template</class>.
 /// <p>Next tutorial in the series: <class>ZMbasics.Tutorial3.HomePage</class>.
-Class ZMbasics.Tutorial2.HomePage Extends %ZEN.Mojo.basePage
+Class ZMbasics.Tutorial2.HomePage Extends ZEN.Mojo.basePage
 {
 
 /// Name of the default template class that this page uses.

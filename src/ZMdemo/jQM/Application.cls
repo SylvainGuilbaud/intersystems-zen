@@ -1,5 +1,5 @@
 /// jquerymobile.Application
-Class ZMdemo.jQM.Application Extends %ZEN.Mojo.baseApplication
+Class ZMdemo.jQM.Application Extends ZEN.Mojo.baseApplication
 {
 
 /// This is the name of this application.

@@ -1,5 +1,5 @@
 /// This template is not finished yet
-Class ZMdemo.chui.baseTemplate Extends %ZEN.Mojo.Component.contentTemplate
+Class ZMdemo.chui.baseTemplate Extends ZEN.Mojo.Component.contentTemplate
 {
 
 Parameter NAMESPACE = "http://www.intersystems.com/zen/mojo/demo/chui";

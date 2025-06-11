@@ -1,5 +1,5 @@
 /// Created using the page template: Default
-Class ZMdemo.bootstrap.HomePageServerSide Extends %ZEN.Mojo.basePage
+Class ZMdemo.bootstrap.HomePageServerSide Extends ZEN.Mojo.basePage
 {
 
 /// Class name of application this page belongs to.

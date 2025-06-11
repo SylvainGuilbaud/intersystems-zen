@@ -1,5 +1,5 @@
 /// This class feeds the 
-Class ZMdemo.html5.baseTemplate Extends %ZEN.Mojo.Component.contentTemplate
+Class ZMdemo.html5.baseTemplate Extends ZEN.Mojo.Component.contentTemplate
 {
 
 Parameter NAMESPACE = "http://www.intersystems.com/zen/mojo/demo/html5";

@@ -1,5 +1,5 @@
 /// Load and Store Sample.Person Application
-Class ZMdemo.LoadAndStore.Application Extends %ZEN.Mojo.baseApplication
+Class ZMdemo.LoadAndStore.Application Extends ZEN.Mojo.baseApplication
 {
 
 /// This is the name of this application.

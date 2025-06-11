@@ -1,5 +1,5 @@
 /// dojo application
-Class ZMdemo.dojo.Application Extends %ZEN.Mojo.baseApplication
+Class ZMdemo.dojo.Application Extends ZEN.Mojo.baseApplication
 {
 
 /// This is the name of this application.

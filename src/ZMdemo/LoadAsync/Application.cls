@@ -1,5 +1,5 @@
 /// application showing how to load data in an asyncronous way
-Class ZMdemo.LoadAsync.Application Extends %ZEN.Mojo.baseApplication
+Class ZMdemo.LoadAsync.Application Extends ZEN.Mojo.baseApplication
 {
 
 /// This is the name of this application.

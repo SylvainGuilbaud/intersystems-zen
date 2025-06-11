@@ -4,11 +4,11 @@
         "host": "localhost",
         "username": "_system",
         "password": "SYS",
-        "active": true
         "port": 38881,
         "links": {
-            "ZEN DEMO":"http://${host}:${port}/irisapp/ZENDemo.Home.cls",
-            "ZEN Charts":"http://${host}:${port}/irisapp/ZENApp.Chart.cls"
-        }
+            "ZEN DEMO": "http://${host}:${port}/irisapp/ZENDemo.Home.cls",
+            "ZEN Charts": "http://${host}:${port}/irisapp/ZENApp.Chart.cls"
+        },
+        "active": true
     }
 }

@@ -3,7 +3,7 @@
 /// the <method>onselect</method> event handler.
 /// <p>This ZM page class uses the template class <class>ZMbasics.Tutorial3.Template</class>.
 /// <p>Next tutorial in the series: <class>ZMbasics.Tutorial4.HomePage</class>.
-Class ZMbasics.Tutorial3.HomePage Extends %ZEN.Mojo.basePage
+Class ZMbasics.Tutorial3.HomePage Extends ZEN.Mojo.basePage
 {
 
 /// Name of the default template class that this page uses.

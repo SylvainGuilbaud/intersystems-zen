@@ -1,4 +1,4 @@
-Class ZMdemo.jQM143.Application Extends %ZEN.Mojo.baseApplication
+Class ZMdemo.jQM143.Application Extends ZEN.Mojo.baseApplication
 {
 
 /// This is the name of this application.

@@ -2,7 +2,7 @@
 /// <p>The primary difference from Tutorial 2 is that *this* tutorial demonstrates 
 /// the <method>onselect</method> event handler.
 /// <p>Next tutorial in the series: <class>ZMbasics.Tutorial4.HomePage</class>.
-Class ZMbasics.Tutorial3.Template Extends %ZEN.Mojo.Component.contentTemplate
+Class ZMbasics.Tutorial3.Template Extends ZEN.Mojo.Component.contentTemplate
 {
 
 /// Each template class must have a unique combination of short class name and NAMESPACE parameter.
